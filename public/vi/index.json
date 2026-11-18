@@ -84,6 +84,13 @@
 	"content": "Thời gian thực tập: 31/08/2026 - 05/09/2026\nMục tiêu tuần 4: Triển khai máy chủ ảo Amazon EC2 và bảo mật truy cập mạng. Thực hành sao lưu EBS và kết nối ứng dụng trên EC2 với Amazon RDS. Các công việc đã thực hiện trong tuần: Ngày Công việc Tài liệu tham khảo 31/08/2026 Tìm hiểu các thành phần của EC2 instance và khởi chạy máy chủ ảo. https://cloudjourney.awsstudygroup.com/ 01/09/2026 Cấu hình Security Group chỉ cho phép lưu lượng inbound cần thiết. https://cloudjourney.awsstudygroup.com/ 03/09/2026 Tạo và kiểm tra EBS Snapshot để sao lưu dữ liệu. https://cloudjourney.awsstudygroup.com/ 04/09/2026 Tìm hiểu Amazon RDS và triển khai một relational database instance. https://cloudjourney.awsstudygroup.com/ 05/09/2026 Cấu hình kết nối an toàn từ máy chủ EC2 tới cơ sở dữ liệu và kiểm tra kết nối. https://cloudjourney.awsstudygroup.com/ Kết quả đạt được tuần 4: Khởi chạy và bảo mật EC2 instance, đồng thời tạo EBS snapshot để sao lưu. Triển khai cơ sở dữ liệu RDS và xác minh kết nối có kiểm soát từ máy chủ ứng dụng. "
 },
 {
+	"uri": "http://localhost:1313/vi/4-eventpatricipated/",
+	"title": "Các events đã tham gia",
+	"tags": [],
+	"description": "",
+	"content": "Trong quá trình thực tập, tôi đã tham gia các sự kiện sau. Mỗi sự kiện giúp tôi mở rộng hiểu biết về các giải pháp trên AWS và có thêm góc nhìn thực tế về cách các doanh nghiệp ứng dụng công nghệ đám mây.\nEvent 1 Tên sự kiện : Thời gian: 09:00 ngày 13/08/2026 Địa điểm: Tầng 7, Toà Grand Terra, 36 Cát Linh, Ô chợ dừa, Hà Nôi Vai trò trong sự kiện: Người tham dự Event 2 Tên sự kiện: Thời gian: 09:00 ngày 31/10/2026 Địa điểm: Tầng 7, Toà Grand Terra, 36 Cát Linh, Ô chợ dừa, Hà Nôi Vai trò trong sự kiện: Người tham dự "
+},
+{
 	"uri": "http://localhost:1313/vi/5-workshop/5.4-idempotency/",
 	"title": "Chống xử lý trùng",
 	"tags": [],

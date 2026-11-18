@@ -84,6 +84,13 @@
 	"content": "Internship period: 31/08/2026 - 05/09/2026\nWeek 4 Objectives: Deploy an Amazon EC2 virtual server and secure its network access. Practice EBS backup and connect an EC2 application to Amazon RDS. Tasks Completed: Date Task Reference Material 31/08/2026 Study EC2 instance components and launch a virtual server. https://cloudjourney.awsstudygroup.com/ 01/09/2026 Configure a Security Group to allow only necessary inbound traffic. https://cloudjourney.awsstudygroup.com/ 03/09/2026 Create and review an EBS Snapshot for data backup. https://cloudjourney.awsstudygroup.com/ 04/09/2026 Study Amazon RDS and deploy a relational database instance. https://cloudjourney.awsstudygroup.com/ 05/09/2026 Configure a secure database connection from the EC2 server and verify connectivity. https://cloudjourney.awsstudygroup.com/ Week 4 Achievements: Launched and secured an EC2 instance and created an EBS backup snapshot. Deployed an RDS database and verified a controlled connection from the application server. "
 },
 {
+	"uri": "http://localhost:1313/4-eventpatricipated/",
+	"title": "Events Participated",
+	"tags": [],
+	"description": "",
+	"content": "During my internship, I took part in the events below. Each event broadened my understanding of AWS solutions and gave me a more practical view of how businesses apply cloud technology.\nEvent 1 Event name: Time: 09:00 on 13/08/2026 Location: 7th Floor, Grand Terra Building, 36 Cat Linh Street, O Cho Dua Ward, Hanoi Role in the event: Attendee Event 2 Event name: Time: 09:00 on 31/10/2026 Location: 7th Floor, Grand Terra Building, 36 Cat Linh Street, O Cho Dua Ward, Hanoi Role in the event: Attendee Soạn Viết cho Như Quỳnh "
+},
+{
 	"uri": "http://localhost:1313/5-workshop/5.4-idempotency/",
 	"title": "Preventing Duplicate Processing",
 	"tags": [],
