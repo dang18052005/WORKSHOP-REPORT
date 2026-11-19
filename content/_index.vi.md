@@ -21,6 +21,7 @@ chapter: false
 
 **Lớp:** K68MMTA
 
+
 **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
 **Vị trí thực tập:** Thực tập sinh (học tập và rèn luyện)
