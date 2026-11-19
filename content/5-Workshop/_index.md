@@ -24,8 +24,7 @@ Suppose the connection drops right after the first click. In the test case, you 
 
 When multiple orders arrive concurrently, you will separately measure the **API response time** and the **time for an order to reach its final state**. If the gap between these two timestamps widens, check the SQS queue metrics in Amazon CloudWatch to see how many messages are waiting for Lambda to process.
 
-{{< moc-tong-quan "style" >}}
-<!-- /moc:tong-quan -->
+![Moc Overview](/images/5-Workshop/102.png)
 
 ### Key Components
 
