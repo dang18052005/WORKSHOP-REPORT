@@ -24,7 +24,7 @@ Suppose the connection drops right after the first click. In the test case, you 
 
 When multiple orders arrive concurrently, you will separately measure the **API response time** and the **time for an order to reach its final state**. If the gap between these two timestamps widens, check the SQS queue metrics in Amazon CloudWatch to see how many messages are waiting for Lambda to process.
 
-![Moc Overview](/images/5-Workshop/102.png)
+![Moc Overview](/WORKSHOP-REPORT/images/5-Workshop/102.png)
 
 ### Key Components
 
@@ -42,7 +42,7 @@ The Moc website is a test storefront without real payment, inventory checking, o
 
 The hands-on labs progress from environment preparation to happy-path testing, duplicate submissions, controlled fault injection, and resource cleanup. When documenting your report, distinguish between observed results and expected targets; do not use a single successful deployment screenshot as evidence that the entire end-to-end workflow succeeded.
 
-![Architecture Overview](/images/5-Workshop/102.png)
+![Architecture Overview](/WORKSHOP-REPORT/images/5-Workshop/102.png)
 <!-- workshop-detail:v1:end -->
 
 <!-- workshop-split:v1 -->
