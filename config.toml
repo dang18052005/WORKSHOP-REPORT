@@ -1,3 +1,7 @@
+baseURL = "https://dang18052005.github.io/WORKSHOP-REPORT/"
+relativeURLs = true
+canonifyURLs = true
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
@@ -49,6 +53,4 @@ weight = 20
 name = "<i class='fab fa-facebook'></i> AWS Study Group - Nhóm FB"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
-weight = 20
-
-baseURL = "[https://dang18052005.github.io/WORKSHOP-REPORT/](https://dang18052005.github.io/WORKSHOP-REPORT/)"
+weight = 20s

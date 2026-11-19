@@ -24,9 +24,7 @@ Giả sử kết nối bị ngắt ngay sau lần bấm đầu tiên. Trong bài
 
 Khi nhiều đơn đến cùng lúc, bạn sẽ đo riêng **thời gian API phản hồi** và **thời gian đơn đạt trạng thái cuối**. Nếu khoảng cách giữa hai mốc tăng dần, hãy xem biểu đồ hàng đợi SQS trong Amazon CloudWatch để biết có bao nhiêu thông điệp đang chờ Lambda xử lý.
 
-{{% notice info %}}
-Nội dung tổng quan của phần Workshop...
-{{% /notice %}}
+{{< moc-tong-quan "style" />}}
 <!-- /moc:tong-quan -->
 
 ### Những nội dung chính
