@@ -1,11 +1,11 @@
 ---
-title: "Internship Report"
+title: "INTERNSHIP REPORT"
 date: "2026-11-10"
 weight: 1
 chapter: false
 ---
 
-# Internship Report
+# INTERNSHIP REPORT
 
 ### Student Information
 
@@ -25,7 +25,7 @@ chapter: false
 
 **Internship Position:** Trainee (learning and training)
 
-**Internship Duration:** From 08/08/2026 to 28/11/2026
+**Internship Duration:** From 10/08/2026 to 30/10/2026
 
 ![Avatar](/images/003.jpg)
 
@@ -38,3 +38,4 @@ chapter: false
 5. [Workshop](5-workshop/)
 6. [Self-Assessment](6-self-assessment/)
 7. [Sharing and Feedback](7-sharing-and-feedback/)
+

@@ -1,11 +1,11 @@
 ---
-title: "Báo cáo thực tập"
+title: "BÁO CÁO THỰC TẬP"
 date: "2026-11-10"
 weight: 1
 chapter: false
 ---
 
-# Báo cáo thực tập
+# BÁO CÁO THỰC TẬP
 
 ### Thông tin sinh viên
 
@@ -25,7 +25,7 @@ chapter: false
 
 **Vị trí thực tập:** Thực tập sinh (học tập và rèn luyện)
 
-**Thời gian thực tập:** Từ 08/08/2026 đến 28/11/2026
+**Thời gian thực tập:** Từ 10/08/2026 đến 30/10/2026
 
 ![Avatar](/images/003.jpg)
 
