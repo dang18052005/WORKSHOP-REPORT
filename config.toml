@@ -51,6 +51,4 @@ identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
-baseURL = "https://dang18052005.github.io/WORKSHOP-REPORT/"
-relativeURLs = true
-canonifyURLs = true
+baseURL = "[https://dang18052005.github.io/WORKSHOP-REPORT/](https://dang18052005.github.io/WORKSHOP-REPORT/)"
