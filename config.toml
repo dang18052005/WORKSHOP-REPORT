@@ -1,6 +1,6 @@
 baseURL = "https://dang18052005.github.io/WORKSHOP-REPORT/"
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
