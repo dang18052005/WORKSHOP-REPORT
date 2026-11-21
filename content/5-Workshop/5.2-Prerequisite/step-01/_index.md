@@ -66,7 +66,7 @@ Set-Clipboard -Value $policyJson
 > restrict the `Resource` to each specific resource.
 
 
-![Create IAM policy](/images/5-Workshop/5.2-Prerequisite/001.png)
+![Tạo IAM policy](/WORKSHOP-REPORT/images/5-Workshop/5.2-Prerequisite/001.png)!
 
 <!-- workshop-detail:v1:begin -->
 ## Deployment permissions versus runtime permissions
