@@ -100,6 +100,6 @@ Nếu ở lần nhìn đầu chỉ thấy `ExecutionStarted`, hãy giữ nguyên
 - [Execution B001 có trạng thái Succeeded](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-execution-succeeded.PNG)
 - [Graph view thể hiện SendCustomerEmail và MarkDone thành công](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-workflow-graph.PNG)
 - [DynamoDB ghi nhận đơn B001 với trạng thái DONE](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-dynamodb-done.PNG)
-- [Execution thành công](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-success.png)
-- [Execution thất bại](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-failed.png)
+<!-- - [Execution thành công](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-success.png) -->
+<!-- - [Execution thất bại](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-failed.png) -->
 - [Email cảnh báo](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/alert-email.png)

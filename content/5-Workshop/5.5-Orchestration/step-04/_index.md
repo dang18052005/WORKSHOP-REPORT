@@ -100,6 +100,6 @@ If the first check finds only `ExecutionStarted`, refresh the same execution. Fo
 - [Execution B001 has status Succeeded](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-execution-succeeded.PNG)
 - [Graph view showing successful SendCustomerEmail and MarkDone steps](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-workflow-graph.PNG)
 - [DynamoDB records order B001 with status DONE](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/b001-dynamodb-done.PNG)
-- [Successful execution](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-success.png)
-- [Failed execution](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-failed.png)
+<!-- - [Successful execution](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-success.png) -->
+<!-- - [Failed execution](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/execution-failed.png) -->
 - [Alert email](/WORKSHOP-REPORT/images/5-Workshop/5.5-Orchestration/alert-email.png)

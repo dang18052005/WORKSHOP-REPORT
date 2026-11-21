@@ -31,7 +31,7 @@ Answer the prompts as follows:
 
 When it finishes, SAM prints `QueueUrl` and `DlqUrl`.
 
-![Deploy result](/WORKSHOP-REPORT/images/5-Workshop/5.3-SQS-DLQ/deploy-result.png)
+<!-- ![Deploy result](/WORKSHOP-REPORT/images/5-Workshop/5.3-SQS-DLQ/deploy-result.png) -->
 
 ## Follow deployment through to the queue URLs
 
