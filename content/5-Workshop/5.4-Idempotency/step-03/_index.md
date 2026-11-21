@@ -20,7 +20,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Inspect the CloudFormation deployment events.'
 
 ![Second deploy](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/deploy-result.png)
 
-![SQS trigger enabled for the Lambda function](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/sqs-trigger-enabled.png)
+![SQS trigger enabled for the Lambda function](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/sqs-trigger-enabled.PNG)
 
 ## Verify that the update reads the intended queue
 

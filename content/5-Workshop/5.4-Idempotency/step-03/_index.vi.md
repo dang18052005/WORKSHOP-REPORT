@@ -20,7 +20,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Inspect the CloudFormation deployment events.'
 
 ![Deploy lần hai](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/deploy-result.png)
 
-![Trigger SQS của Lambda đang bật](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/sqs-trigger-enabled.png)
+![Trigger SQS của Lambda đang bật](/WORKSHOP-REPORT/images/5-Workshop/5.4-Idempotency/sqs-trigger-enabled.PNG)
 
 ## Xác nhận bản cập nhật đang đọc đúng hàng đợi
 
